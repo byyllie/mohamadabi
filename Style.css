@@ -15,8 +15,7 @@ hr.bold {
   padding-right: 5rem;
 }
 .abi-cover {
-  position: absolute;
-  width: 700px;
+  width: 100%;
   z-index: -1;
 }
 .head-font-cover {
@@ -41,7 +40,7 @@ hr.bold {
   color: white;
 }
 .img-learning {
-  width: 70%;
+  width: 100%;
 }
 .img-work {
   width: 100%;
